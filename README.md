@@ -205,5 +205,5 @@ Seliee exposes **800+ API endpoints**, covering the same areas as the panel: web
 
 <p align="center">
   <a href="https://www.seliee.si">www.seliee.si</a><br/>
-  <sub>Made by Neeblo</sub>
+  <sub>Made by <a href="https://www.neeblo.com">Neeblo LTD</a></sub>
 </p>
