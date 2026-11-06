@@ -5,7 +5,7 @@
 Seliee is a marketing and growth platform that brings websites, content, SEO, AEO, GEO, ads, social media, customers, email and analytics into a single panel. On top of that it gives you an **AI Office** (a team of AI agents that work for you), a **multi-provider AI layer** (bring your own keys), and an **MCP server and REST API** so your own tools and AI clients can drive the whole platform.
 
  · **Website:** [www.seliee.si](https://www.seliee.si)
- · **Free 50 tokens:** [Claim them here](https://seliee.si/r/lic804jq)
+ · **Free 500 credits:** [Claim them here](https://seliee.si/r/lic804jq)
  · **Free forever, no time limit**, with monthly and yearly plans when you grow.
 
 ---
@@ -196,7 +196,7 @@ Seliee exposes **800+ API endpoints**, covering the same areas as the panel: web
 ## Get started
 
 1. Create your free account at **[www.seliee.si](https://www.seliee.si)**.
-2. Claim your **free 50 tokens**: [seliee.si/r/lic804jq](https://seliee.si/r/lic804jq)
+2. Claim your **free 500 credits**: [seliee.si/r/lic804jq](https://seliee.si/r/lic804jq)
 3. Add an AI account (OpenAI, Claude, Gemini, xAI or another provider) so your agents can think.
 4. Open the **AI Office**, pick a scenario and give your team a goal.
 5. Generate an **MCP token** to control Seliee from Claude.
